@@ -2,7 +2,7 @@
 #### 2
 #### 3 Bob was here
 #### 4
-#### 5 collaborator's text
+#### 5 collaborator's text?
 #### 6
 #### 7
 #### 8
